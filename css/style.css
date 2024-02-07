@@ -29,6 +29,17 @@
   }
   
   h2 { font-size: 3rem; }
+footer{
+  height: 3rem;
+  background-color: navy;
+}
+
+.footer{
+  text-align: center;
+  color:white;
+  padding: 10px;
+}
+
   
   @media (max-width: 750px) {
       #background-video { display: none; }
@@ -37,6 +48,7 @@
         background-size: cover;
       }
   }
+
   
   main {
     background-color: lightblue;
